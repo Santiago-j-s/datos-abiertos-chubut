@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ENLACE1", "Description": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -65.09801, -43.295993, 60.0 ], [ -65.052734, -43.399638, 60.0 ], [ -65.315343, -43.978572, 60.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Torre LA PERLA", "Description": "Altura 48mts.Equipo rocket 5.8Dish 30dBi" }, "geometry": { "type": "Point", "coordinates": [ -65.31534, -43.97857, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Torre CANGREJALES", "Description": "Altura 60mts.Equipos:Rocket 5.8\/Dish 30dBiNanoBridge 20dBiRepetidora Celular" }, "geometry": { "type": "Point", "coordinates": [ -65.052714, -43.399645, 0.0 ] } }
+
+]
+}

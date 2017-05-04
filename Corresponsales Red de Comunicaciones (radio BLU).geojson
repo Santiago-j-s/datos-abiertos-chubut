@@ -1,0 +1,174 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "2_Istmo Ameghino  (Turismo)_LTY 295", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.499175448725026, -42.465035147226153, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "4_Punta Loma   (turismo)_LTY 297", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.892306521828502, -42.816197901535602, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "5_San Efren  (Rural)  Bajada del Diablo_LTY 298", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.339056850259666, -43.12478392928211, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "6_La Romanza  (Rural)_LTY 299", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.5022222, -43.0891667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "7_Costa del Lepa (Esc. 99)_LTY 300", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.750295513555884, -42.688550575585943, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "8_Costa del Chubut (Esc.137)_LTY 301", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.458749219326137, -42.603774245405482, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "9_Costa del Gualjaina  (Esc. 29)_LTY 302", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.443477937806506, -42.664516140672163, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "10_Colonia Cushamen  (Esc. 69)_LTY 303", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.889782325137801, -42.10790615838112, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "11_Cerro Condor  (Esc. 31)_LTY 304", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.890149134827041, -43.510192392558338, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "12_Leleque  (Esc. 90)_LTY 305", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.062916666666666, -42.447583333333327, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "13_Sepaucal  (Esc. 92)_LTY 306", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.404445941152531, -42.272551941922252, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "14_Ranquil Huao  (Esc. 60)_LTY 307", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.924112674242679, -42.251427822176829, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "15_Piedra Parada  (Esc. 86)_LTY 308", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.152798278545177, -42.663207197009363, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "16_Ñorquinco Sur  (Esc. 67)_LTY 309", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.821238815410723, -41.994646991730832, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "17_Lago Rosario  (Esc. 114)_LTY 310", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.347538226508235, -43.245280068513821, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "8_Fofo Cahuel  (Esc. 59)_LTY 311", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.530319464458273, -42.407447817359817, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "19_Punta Piramides   (Turismo)_LTY 312", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.308529755331236, -42.584649619900667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "20_San Jorge_LTY 313", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.715649264857603, -43.997204602459462, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "22_Lagunita Salada  (Comuna)_LTY 315", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.1494444, -42.7436111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "23_El Turbio  (Esc. 186)_LTY 316", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.701565845652667, -42.249534386470721, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "25_Gorro Frigio  (C. Aborigen)_LTY 318", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.204462651222698, -42.910154746652232, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "26_Santa Ana  (Rural)_LTY 319", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -66.602489630256642, -44.798044666838827, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "27_La Chiquita  (Rural)_LTY 320", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.008306555496588, -44.564097508069558, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "28_EL Tathuencay  (Rural)_LTY 321", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.686976426960001, -42.664137880909067, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "29_La Aurora  (Rural)_LTY 322", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.2116667, -44.1566667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "30_El Mirasol  (Esc. 118)_LTY 323", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.76037730070918, -43.283805338035521, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "31_El Escorial  (Esc. 212)_LTY 324", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.538718341803687, -43.09201651672651, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "32_El Chenque  (Ofic.)_LTY 325", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.262012206297669, -43.161981602746742, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "33_Chachay Oeste (Esc. 63)_LTY 326", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.06102566608898, -42.679798282836643, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "34_La Tapera  (Rural)_LTY 327", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.042653809928126, -42.777028812169917, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "35_Cabo Dos Bahias  (Turismo)_LTY 328", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.577399660262401, -44.911259234608231, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "36_Buen Pasto (Oficial)_LTY 329", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.461029141392316, -45.077732653220828, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "37_Blancuntre  (Esc. 128)_LTY 330", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.904324101759812, -42.620561108340581, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "38_Aldea Apeleg  (Esc. 127)_LTY 331", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.8536111, -44.6888889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "39_Las Malvinas  (Rural)_LTY 332", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.2263889, -44.9391667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "40_Punta Tombo  (Turismo)_LTY 333", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.223985633159586, -44.045532679239031, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "41_Puerto Lobos  (Pesca)_LTY 334", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.076501754737052, -41.993478393800473, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "42_Punta Norte   (Turismo)_LTY 335", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -63.760061542782651, -42.079579000590194, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "43_El Desempeño  (Turismo)_LTY 336", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.748752827622823, -42.513926311030872, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "44_Isla de los Pajaros  (Turismo)_LTY 337", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.517918068072547, -42.429202634824492, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "45_Caleta Valdes   (Turismo)_LTY 338", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -63.600412148703043, -42.513073698956383, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "46_Nant y Fall     (Turismo)_LTY 339", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.472053415592157, -43.189978618969398, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "48_Yala Laubat  (Esc. 62)_LTY 341", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.866775853818822, -42.759286315779853, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "49_Los Tamariscos  (Rural)_LTY 342", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.987684699779791, -42.790534573388832, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "50_Bosque Petrificado  (Turismo)_LTY 343", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.067905660996345, -45.814212979649042, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "52_El Cipres  (Rural)_LTY 345", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.41549015573321, -42.454572302503088, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "56_Don Juan     (Rural)_LTY 349", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -66.6975, -42.1744444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "57_Don Alberto    (S\/Calificar)_LTY 350", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.392705808372966, -42.471537787598763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "58_Choiquenilahue  (rural)_LTY 351", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.0772222, -45.0286111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "59_San Agustin_LTY 352", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.9488889, -43.6936111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "60_El Hornito_LTY 353", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.259747272518538, -44.080191965701317, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "72_El Chalia  (Com. Aborigen)_LTY 509", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.995365730460477, -45.687392577341498, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "75_Huentelen    (Ofic.)_LTY 610", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.405941590905826, -43.187920747407453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "77_Aldea Epulef  (Esc)_LTY 612", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.692647321658058, -43.320815632646422, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "78_Maria Isabel   (Oficial)_LTY 613", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.387458262867895, -43.211343563122107, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "79_Los 5 Hermanos  (Rural)_LTY 614", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -66.7083333, -42.1861111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "84_El Mirador   (Com. Aborigen)_LTY 619", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.073321853853486, -42.568637788482157, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "93_Taquetren  (Com. Aborigen)_LTY  628", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.848327725136173, -42.398642632503389, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "8_Atilio Viglione  (Com. Aborigen)_LTY 633", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.664596517160163, -44.191640287304409, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "117_Los Cerros  (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.9877778, -42.4913889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "118_La Madrugada   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.951336826551284, -43.628100229825279, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "120_San Francisco   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.1333333, -43.1908333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "122_El Zampal    (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.1180556, -44.3313889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "123_Los Amigos   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -66.5233333, -43.9319444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "124_La Union    (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.3458333, -44.2363889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "126_La Berna   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.3538889, -44.3311111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "127_Aguada del Toro  (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.051081358385261, -43.239839047502379, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "128_La Juanita   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.676805555555561, -43.141416666666672, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "138_Evaristo   (Oficial)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.310138492181835, -43.078426138991183, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "139_Quichaura 1  (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.136180555555569, -43.542369444444439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "145_Las Violetas   (rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -66.9891667, -45.0338889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "149_Quichaura 2   (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.4630556, -43.56, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "151_San Martin  (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -68.531110490462027, -43.028624638192319, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "156_Yala Laubat  (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.057832916809403, -42.646932013344028, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "157_Laguna Fria  (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -67.796777321273993, -42.941291026979329, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "164_Hospital Rio Pico_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.369064563076606, -44.178433718067943, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "165_Ñancuñique (Aguila Blanca) (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.022738474219992, -42.136386744356301, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "166_La Cumbre  (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.3063889, -43.4402778, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "168_La Etelvina   (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.0219444, -45.8491667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "169_Costa del Lepa (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.746524351741272, -42.689026576972388, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "170_Sierras de Teca  (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.6486111, -43.2011111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "171_Sierras del Huancache  (Com. Aborigen)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.2757, -42.384783333333331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "172_Las Golondrinas  (Rural)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -70.0808333, -42.9819444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "179_Pampa de Agnia  (Oficial)_AGREGADO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.65172367775952, -43.74829422213336, 0.0 ] } }
+
+]
+}

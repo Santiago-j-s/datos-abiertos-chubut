@@ -1,0 +1,203 @@
+ID,ORGANISMO,SIGLA
+1,Administración De Vialidad Provincial,AVP
+2,Corporación De Fomento Del Chubut,CCH
+3,Instituto Autárquico De Colonización,IAC
+4,Instituto De Asistencia Social,IAS
+5,Instituto Provincial De La Vivienda Y Desarrollo Urbano,IPVyDU
+6,Instituto De Seguridad Social Y Seguros,ISSyS
+7,Jefatura De Policía,JP
+8,Ministerio De La Producción,MP
+10,Dirección General De Rentas,DGR
+11,Varios,VARIOS
+12,Tribunal De Cuentas,T.CTAS
+18,Contaduría General,CG
+19,Fiscalía De Estado,FE
+23,Secretaría De Pesca,SP
+29,Secretaría De Salud,SS
+34,Secretaría De Cultura,SC
+39,Oficina Anticorrupción,OA
+41,Ministerio De Educación,ME
+47,Ministerio De Economía Y Crédito Público,EC
+51,Hospital Zonal De Trelew,HZT
+52,Gobernador,GOBERNADOR
+55,Honorable Legislatura,HL
+56,Registro Civil y Capacidad de las Personas,GB-SGJ-DGRC
+57,Tesorería General,TG
+58,Poder Judicial,PJ
+64,Ministerio de Hacienda,MH
+65,Banco de la Provincia del Chubut,BPCH
+66,MUNICIPALIDAD DE 28 DE JULIO,MUN. 28 DE JULIO
+67,MUNICIPALIDAD DE CAMARONES,MUN. CAMARONES
+68,MUNICIPALIDAD DE CHOLILA,MUN. CHOLILA
+69,MUNICIPALIDAD DE COMODORO RIVADAVIA,MUN. C. RIVADAVIA
+70,MUNICIPALIDAD DE CORCOVADO,MUN. CORCOVADO
+71,MUNICIPALIDAD DE DOLAVON,MUN. DOLAVON
+72,MUNICIPALIDAD DE EL HOYO,MUN. EL HOYO
+73,MUNICIPALIDAD DE EL MAITÉN,MUN. EL MAITÉN
+74,MUNICIPALIDAD DE EPUYÉN,MUN. EPUYÉN
+75,MUNICIPALIDAD DE ESQUEL,MUN. ESQUEL
+76,MUNICIPALIDAD DE GAIMAN,MUN. GAIMAN
+77,MUNICIPALIDAD DE GOBERNADOR COSTA,MUN. G. COSTA
+78,MUNICIPALIDAD DE GUALJAINA,MUN. GUALJAINA
+79,MUNICIPALIDAD DE JOSÉ DE SAN MARTÍN,MUN. J. DE S. MARTÍN
+80,MUNICIPALIDAD DE LAGO PUELO,MUN. LAGO PUELO
+81,MUNICIPALIDAD DE PASO DE INDIOS,MUN. PASO DE INDIOS
+82,MUNICIPALIDAD DE PUERTO MADRYN,MUN. PTO. MADRYN
+83,MUNICIPALIDAD DE RADA TILLY,MUN. RADA TILLY
+84,MUNICIPALIDAD DE RAWSON,MUN. RAWSON
+85,MUNICIPALIDAD DE RÍO MAYO,MUN. RÍO MAYO
+86,MUNICIPALIDAD DE RÍO PICO,MUN. RÍO PICO
+87,MUNICIPALIDAD DE RÍO SENGUER,MUN. RÍO SENGUER
+88,MUNICIPALIDAD DE SARMIENTO,MUN. SARMIENTO
+89,MUNICIPALIDAD DE TECKA,MUN. TECKA
+90,MUNICIPALIDAD DE TRELEW,MUN. TRELEW
+91,MUNICIPALIDAD DE TREVELÍN,MUN. TREVELÍN
+92,Ministerio del Interior,NACIÓN MI
+93,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",NACIÓN MRECIyC
+94,Ministerio de Defensa,NACIÓN MD
+95,Ministerio de Economía de la Nación,NACIÓN ME
+96,Ministerio de la Producción,NACIÓN MP
+97,Ministerio de Justicia y Derechos Humanos,NACIÓN MJDH
+98,"Ministerio de Educación, Ciencia y Tecnología",NACIÓN MECT
+99,"Ministerio de Trabajo, Empleo y Seguridad Social",NACIÓN MTESS
+100,Ministerio de Salud,NACIÓN MS
+101,Ministerio de Desarrollo Social,NACIÓN MDS
+108,ATE,ATE
+109,ATECH,ATECH
+110,Defensoría del Pueblo,DefPueblo
+111,Secretaría de Trabajo - Subsecretaría de Trabajo,STR-SST
+112,Jefatura de Policía - Área Finanzas,JP-AF
+113,Secretaría de Trabajo - Subsecretaría de Trabajo - Comodoro Rivadavia,STR-SST-CR
+114,Secretaría de Trabajo - Subsecretaría de Trabajo - Trelew,STR-SST-T
+115,Secretaría de Trabajo - Subsecretaría de Trabajo - Puerto Madryn,STR-SST-PM
+116,Secretaría de Trabajo - Subsecretaría de Trabajo - Esquel,STR-SST-E
+117,Casa de la Provincia del Chubut,CPCH
+119,Jefatura de Policía - Secretaría General,JP-SG
+120,Ministerio De La Familia y Promoción Social,MFyPS
+121,Delegación Regional Norte,DRN
+122,Delegación Regional Oeste,DRO
+123,Delegación Regional Sur,DRS
+126,Ministerio de Salud,MS
+127,CFI - Inversiones,CFI - INVERSIONES
+128,CFI - Impuestos,CFI - IMPUESTOS
+129,Hospital Regional Comodoro Rivadavia,HRCR
+130,Hospital Zonal Esquel,HZE
+131,Hospital Zonal Puerto Madryn,HZPM
+132,Asesoría General de Gobierno,AGG
+133,Dirección de Legislación - Ases. Gral. de Gobierno,DL-AGG
+134,"Ases. Legal - Sec. de Deportes, Recreación y Turismo Social",AL-SDRyTS
+135,Asesoría Legal - Secretaría de Cultura,AL-SC
+136,Comisión de Fomento GUALJAINA  ,GUALJAINA  
+137,Comisión de Fomento PASO DE INDIOS ,PASO DE INDIOS 
+138,Comuna Rural ALDEA BELEIRO  ,ALDEA BELEIRO  
+139,Comuna Rural BUEN PASTO ,BUEN PASTO 
+140,Comuna Rural CARRENLEUFU ,CARRENLEUFU 
+141,Comuna Rural CUSHAMEN ,CUSHAMEN 
+142,Comuna Rural DIQUE FLORENTINO AMEGHINO ,DIQUE FLORENTINO AMEGHINO 
+143,Comuna Rural Dr. ATILIO OSCAR VIGLIONE (Ex Aldea LAS PAMPAS – FRONTERA DE RIO PICO),A. O. VIGLIONE
+144,Comuna Rural DR. RICARDO ROJAS ,RICARDO ROJAS 
+145,Comuna Rural FACUNDO ,FACUNDO 
+146,Comuna Rural GAN - GAN ,GAN - GAN 
+147,Comuna Rural GASTRE ,GASTRE 
+148,Comuna Rural LAGO BLANCO ,LAGO BLANCO 
+149,Comuna Rural LAS PLUMAS ,LAS PLUMAS 
+150,Comuna Rural TELSEN ,TELSEN 
+153,Petrominera Chubut,PC
+154,Hospital Santa Teresita de Rawson,HRW
+155,Comuna Rural COLAN CONHUE,COLAN CONHUE
+156,SH - Dirección General de Minas y Geología,SH - DGMyG
+157,Hospital Lago Puelo,HLP
+158,Hospital Rural Alto Río Senguer,HRSenguer
+159,Hospital Rural Cholila,HRCholila
+160,Hospital Rural Corcovado,HRCorcovado
+161,Hospital Rural Cushamen,HRCushamen
+162,Hospital Rural Diadema Argentina,HRDiadema
+163,Hospital Rural Dolavon,HRDolavon
+164,Hospital Rural El Hoyo,HRElHoyo
+165,Hospital Rural Epuyén,HREpuyén
+166,Hospital Rural Gaiman,HRGaiman
+167,Hospital Rural Gan Gan,HRGanGan
+168,Hospital Rural Gastre,HRGastre
+169,Hospital Rural Gobernador Costa,HRGobCosta
+170,Hospital Rural Gualjaina,HRGualjaina
+171,Hospital Rural José de San Martín,HRJdeSM
+172,Hospital Rural Las Plumas,HRLasPlumas
+173,Hospital Rural Paso de Indios,HRPdeIndios
+174,Hospital Rural Puerto Pirámides,HRPtoPirámides
+175,Hospital Rural Río Mayo,HRRíoMayo
+176,Hospital Rural Río Pico,HRRíoPico
+177,Hospital Rural Sarmiento,HRSarmiento
+178,Hospital Rural Tecka,HRTecka
+179,Hospital Rural Telsen,HRTelsen
+180,Hospital Rural Trevelin,HRTrevelin
+181,Hospital Subzonal El Maitén,HSEM
+182,Hospital Rural Camarones,HRCamarones
+183,Comuna Rural Aldea Apeleg,Aldea Apeleg
+184,Comuna Rural Aldea Epulef,Aldea Epulef
+185,Comuna Rural Cerro Centinela,Cerro Centinela
+186,Comuna Rural Lagunita Salada,Lagunita Salada
+187,Comuna Rural Los Altares,Los Altares
+188,Comuna Rural Paso del Sapo,Paso del Sapo
+189,Ministerio de Ambiente y Control del Desarrollo Sustentable,MAyCDS
+190,MUNICIPALIDAD DE PUERTO PIRAMIDES,MUN. PUERTO PIRAMIDES
+192,"Ministerio de Comercio Exterior, Turismo e Inversiones",MCETI
+194,AVP - Jefatura Zona Noreste,AVP - JZNE
+195,AVP - Jefatura Zona Noroeste,AVP - JZNO
+196,AVP - Jefatura Zona Sur,AVP - JZS
+197,AVP - Jefatura Zona Centro,AVP - JZC
+198,"Unidad Ejecutora Provincial de Industria, Agricultura y Ganadería",UEPIAG
+199,Puesto Sanitario Dique Florentino Ameghino,PSAmeghino
+200,Senado de la Nación,NACION SENADO
+202,Chubut Deportes - Sociedad de Economia Mixta,CD-SEM
+203,Secretaría de Trabajo,STR
+205,Secretaría de Trabajo - SS de Asociativismo y Economía Social,STR-SSAyES
+206,Secretaría de Trabajo - SS de Recuperación y Promoción del Empleo,STR-SSRyPE
+208,Subsecretaría Unidad Gobernador,SUG
+209,Hospital Rural Lago Puelo,HRLago Puelo
+214,Fondo de Recuperación de la Actividad Ovina,MIAG/SS-RRNN/FRAO
+217,Instituto Provincial del Agua,IPA
+218,Universidad del Chubut,UCH
+219,Central de los Trabajadores Argentinos,CTA
+220,Hospital Rural Rada Tilly,HRRadaTilly
+221,Juzgado Federal,JF
+222,MIAG - Delegacion Comarca de Los Andes,MIAG-DCLA
+224,Secretaría de Justicia y Derechos Humanos,SJ
+225,Agencia Provincial de Promocion de Energia Renovable,APPER
+231,Agencia Chubut Turismo,ACHT
+232,Ministerio de Hidrocarburos,MHC
+233,Secretaría de Ciencia Tecnología e Innovacion Productiva,SCTeIP
+234,Secretaría Privada,SPG
+235,Secretaria de Planeamiento Estrategico y Desarrollo,SPEyD
+236,Secretaría Privada - Dirección de Administración,SPG-DA
+238,DIRECCION REGIONAL CORFO SUR,CCH-DRS
+239,DIRECCION REGIONAL CORFO NORTE,CCH-DRN
+240,DIRECCION REGIONAL CORFO OESTE,CCH-DRO
+241,GERENCIA LA TROCHITA ESQUEL,GVEP Esquel
+242,GERENCIA LA HOYA,GLa Hoya
+243,MHC-Dirección General de Minas y Geología,MHC-DGMyG
+244,Ministerio de la Defensa Publica,MDP
+245,Dirección Provincial Area Programática Trelew,MS/DPAPT
+246,Hospital Zonal Alvear,HZA
+250,Ministerio de Coordinación de Gabinete,MCG
+251,"Ministerio de Agricultura, Ganaderia, Bosques y Pesca",MAGByP
+254,Escribanía General de Gobierno,EGG
+255,Dirección Regional Meseta Central,CCH/DRMC
+256,Hospital Subzonal El Maitén,HSZElMaiten
+257,Administración Nacional de la Seguridad Social,ANSES
+258,Ministerio de Seguridad y Justicia,MSyJ
+259,Ministerio de Gobierno,GB
+261,Ministerio de Coordinación de Gabinete - SUG,MCG-SUG
+262,Área Programática Comodoro Rivadavia,MS/DPAPCR
+263,Ministerio de Desarrollo Territorial y Sectores Productivos,MDTySP
+265,Area Programatica Esquel,MS/DPAPE
+266,Secretaría de Seguridad y Justicia,SSyJ
+267,Ministerio de Infraestructura Planeamiento y Servicios Publicos,MIPySP
+268,Direccion Provincial Area Programatica Norte,MS/DPAPN
+269,Instituto Provincial de Investigacion de los Recursos del Mar,IPIRMAR
+270,Ministerio de Turismo,MT
+271,Agencia Provincial de Seguridad Vial,APSV
+272,Jefatura de Policía - Dirección Recursos Materiales,JP-DRM
+273,"Secretaría de Trabajo - Dirección General de Defensa, proteccion de Consumidores y Usuarios",STR-DGDPCyU
+274,PROSATE ,PRR
+275,Subsecretaria de Informacion Publica,MCG-SIP
+276,Casa de la Provincia del Chubut - Direccion de Emergencias Sanitarias,CPCH-DES

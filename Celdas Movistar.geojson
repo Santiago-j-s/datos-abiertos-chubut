@@ -1,0 +1,232 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Madryn Centro", "Description": "ARCB0024\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.032616, -42.780224, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Playa Tomas Curti", "Description": "ARCB0033\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.038, -42.765485, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Puerto Madryn TASA", "Description": "ARCB0040\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.016095, -42.821253, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Puerto Madryn Aluar", "Description": "ARCB0063\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.075991, -42.726965, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Microcelda Aeropuerto Puerto Madr", "Description": "ARCB0067\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.100675, -42.755072, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Puerto Madryn", "Description": "ARCB0070\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.009722, -42.785, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pto. Pir mide", "Description": "ARCB0032\/01" }, "geometry": { "type": "Point", "coordinates": [ -64.265175, -42.566092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cholila", "Description": "ARCB0012\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.431107, -42.511665, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "El Hoyo", "Description": "ARCB0018\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.511665, -42.068333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "El Mait‚n", "Description": "ARCB0014\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.203331, -42.020832, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Epuy‚n", "Description": "ARCB0046\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.369444, -42.228611, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gualjaina", "Description": "ARCB0006\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.534721, -42.722221, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lago Puelo", "Description": "ARCB0015\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.599167, -42.063889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cerro Dragon", "Description": "ARCB0064\/01" }, "geometry": { "type": "Point", "coordinates": [ -68.23722, -45.778888, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "San Martin y Moreno", "Description": "ARCB0007\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.4764, -45.8609, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Solis", "Description": "ARCB0008\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.525002, -45.870831, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parque Industrial", "Description": "ARCB0011\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.528618, -45.885834, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mitre", "Description": "ARCB0027\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.484299, -45.86097, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cerro Vitteau", "Description": "ARCB0036\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.481392, -45.845554, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cerro Tanque", "Description": "ARCB0041\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.518059, -45.830833, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mosconi", "Description": "ARCB0043\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.479446, -45.839165, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Comodoro Rivadavia TASA", "Description": "ARCB0044\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.491519, -45.864186, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Diadema Argentina", "Description": "ARCB0009\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.674995, -45.778057, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Don Bosco", "Description": "ARCB0028\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.421046, -45.794542, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cerro La Piedra", "Description": "ARCB0025\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.540833, -45.915279, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rada Tilly", "Description": "ARCB0035\/01" }, "geometry": { "type": "Point", "coordinates": [ -67.566666, -45.933056, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Camarones", "Description": "ARCB0017\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.711945, -44.795834, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corcovado", "Description": "ARCB0001\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.461105, -43.535557, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esquel TASA", "Description": "ARCB0005\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.320274, -42.916111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aeropuerto Esquel", "Description": "ARCB0023\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.146942, -42.905834, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "M¢vil La Hoya", "Description": "ARCB0038\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.253129, -42.824109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Trevelin", "Description": "ARCB0003\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.463882, -43.086109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Villa Futalaufquen", "Description": "ARCB0022\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.619278, -42.895695, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "28 de Julio", "Description": "ARCB0069\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.8442, -43.3919, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dolav¢n", "Description": "ARCB0030\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.702774, -43.309444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gaiman", "Description": "ARCB0020\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.492683, -43.289175, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tecka", "Description": "ARCB0026\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.802505, -43.498611, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Movistar Paso de Indios", "Description": "ARCB0016\/01" }, "geometry": { "type": "Point", "coordinates": [ -69.037224, -43.866108, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Playa Union", "Description": "ARCB0029\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.041664, -43.304165, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rawson", "Description": "ARCB0019\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.101944, -43.299721, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Laguna", "Description": "ARCB0002\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.3041, -43.2469, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Inmigrantes", "Description": "ARCB0010\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.314085, -43.254526, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Juan Manuel de Rosas", "Description": "ARCB0013\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.295752, -43.264158, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Progreso", "Description": "ARCB0031\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.322229, -43.252056, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Trelew TASA", "Description": "ARCB0034\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.304167, -43.254444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Estaci¢n Omega", "Description": "ARCB0068\/01" }, "geometry": { "type": "Point", "coordinates": [ -65.200666, -43.052454, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Alto R¡o Senguer", "Description": "ARCB0021\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.826668, -45.039165, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "R¡o Mayo", "Description": "ARCB0039\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.24641, -45.692512, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sarmiento (CB)", "Description": "ARCB0042\/01" }, "geometry": { "type": "Point", "coordinates": [ -69.069443, -45.586109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gobernador Costa", "Description": "ARCB0004\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.597221, -44.050831, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jose de San Martin", "Description": "ARCB0045\/01" }, "geometry": { "type": "Point", "coordinates": [ -70.47139, -44.051945, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rio Pico", "Description": "ARCB0037\/01" }, "geometry": { "type": "Point", "coordinates": [ -71.361107, -44.178333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB094", "Description": "Rada Tilly 2 Nuevo" }, "geometry": { "type": "Point", "coordinates": [ -67.556111, -45.931389, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB023", "Description": "Rada Tilly" }, "geometry": { "type": "Point", "coordinates": [ -67.553903, -45.914413, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB214", "Description": "COMODORO RIVADAVIA 7" }, "geometry": { "type": "Point", "coordinates": [ -67.5437, -45.8993, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB232", "Description": "COMODORO RIVADAVIA 15" }, "geometry": { "type": "Point", "coordinates": [ -67.5251, -45.8854, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB222", "Description": "COMODORO RIVADAVIA 9" }, "geometry": { "type": "Point", "coordinates": [ -67.5418, -45.8802, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB206", "Description": "COMODORO RIVADAVIA 5" }, "geometry": { "type": "Point", "coordinates": [ -67.5134, -45.8773, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB231", "Description": "COMODORO RIVADAVIA 14" }, "geometry": { "type": "Point", "coordinates": [ -67.5261, -45.8736, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB218", "Description": "COMODORO RIVADAVIA 8" }, "geometry": { "type": "Point", "coordinates": [ -67.5378, -45.8675, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB201", "Description": "Comodoro Rivadavia 3 (DCS)" }, "geometry": { "type": "Point", "coordinates": [ -67.4915, -45.8662, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB224", "Description": "COMODORO RIVADAVIA 11" }, "geometry": { "type": "Point", "coordinates": [ -67.4838, -45.8647, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB223", "Description": "COMODORO RIVADAVIA 10" }, "geometry": { "type": "Point", "coordinates": [ -67.5156, -45.8629, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB205", "Description": "Comodoro Rivadavia 4" }, "geometry": { "type": "Point", "coordinates": [ -67.4775, -45.8626, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB047", "Description": "EL TORDILLO" }, "geometry": { "type": "Point", "coordinates": [ -67.9124, -45.8594, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB071", "Description": "El Trebol" }, "geometry": { "type": "Point", "coordinates": [ -67.872478, -45.849498, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB225", "Description": "COMODORO RIVADAVIA 12" }, "geometry": { "type": "Point", "coordinates": [ -67.4795, -45.8392, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CBR01", "Description": "Cerro Tanque" }, "geometry": { "type": "Point", "coordinates": [ -67.5185, -45.8275, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB200", "Description": "Comodoro 2 (Cerro Hermite)" }, "geometry": { "type": "Point", "coordinates": [ -67.4773, -45.8248, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB226", "Description": "COMODORO RIVADAVIA 13" }, "geometry": { "type": "Point", "coordinates": [ -67.4217, -45.7944, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB207", "Description": "COMODORO RIVADAVIA 6" }, "geometry": { "type": "Point", "coordinates": [ -67.4719, -45.7918, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB014", "Description": "Diadema Argentina" }, "geometry": { "type": "Point", "coordinates": [ -67.6658, -45.7868, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB027", "Description": "Cerro Dragon" }, "geometry": { "type": "Point", "coordinates": [ -68.2393, -45.7777, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB052", "Description": "CERRO ESCALANTE" }, "geometry": { "type": "Point", "coordinates": [ -67.840386, -45.775629, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB053", "Description": "BASE PAN AMERICAN - CERRO DRAGON" }, "geometry": { "type": "Point", "coordinates": [ -68.306122, -45.738066, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB046", "Description": "ASTRA - KM. 20" }, "geometry": { "type": "Point", "coordinates": [ -67.4891, -45.737, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB024", "Description": "Cerro G64" }, "geometry": { "type": "Point", "coordinates": [ -67.7205, -45.7107, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB028", "Description": "Rio Mayo Nuevo" }, "geometry": { "type": "Point", "coordinates": [ -70.251111, -45.690277, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB034", "Description": "Sarmiento Nuevo" }, "geometry": { "type": "Point", "coordinates": [ -69.0701, -45.5874, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB049", "Description": "MANANTIALES BEHR" }, "geometry": { "type": "Point", "coordinates": [ -67.6624, -45.5591, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB077", "Description": "Facundo" }, "geometry": { "type": "Point", "coordinates": [ -69.978302, -45.3092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB020", "Description": "Camarones" }, "geometry": { "type": "Point", "coordinates": [ -65.71428, -44.796346, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB048", "Description": "GARAYALDE" }, "geometry": { "type": "Point", "coordinates": [ -66.618607, -44.68444, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB043", "Description": "Paso de Indios" }, "geometry": { "type": "Point", "coordinates": [ -69.0383, -43.866699, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB031", "Description": "Dique Ameghino" }, "geometry": { "type": "Point", "coordinates": [ -66.473673, -43.691516, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB040", "Description": "COROCOVADO" }, "geometry": { "type": "Point", "coordinates": [ -71.481399, -43.536701, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB076", "Description": "TECKA" }, "geometry": { "type": "Point", "coordinates": [ -70.803596, -43.496899, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB061", "Description": "28 de Julio" }, "geometry": { "type": "Point", "coordinates": [ -65.8442, -43.391899, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB210", "Description": "RAWSON PLAYA UNION" }, "geometry": { "type": "Point", "coordinates": [ -65.0515, -43.3225, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB038", "Description": "Dolavon 2 (TGS)" }, "geometry": { "type": "Point", "coordinates": [ -65.705864, -43.310237, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB022", "Description": "Rawson Nuevo" }, "geometry": { "type": "Point", "coordinates": [ -65.1061, -43.3002, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB032", "Description": "Gaiman" }, "geometry": { "type": "Point", "coordinates": [ -65.497294, -43.297154, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB010", "Description": "Dolavon" }, "geometry": { "type": "Point", "coordinates": [ -65.570907, -43.26711, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB208", "Description": "TRELEW 1 NUEVO" }, "geometry": { "type": "Point", "coordinates": [ -65.296, -43.2597, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB237", "Description": "Trelew 4 (POI)" }, "geometry": { "type": "Point", "coordinates": [ -65.306, -43.2537, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB209", "Description": "TRELEW PARQUE INDUSTRIAL" }, "geometry": { "type": "Point", "coordinates": [ -65.3525, -43.2532, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB204", "Description": "Trelew 2 DCS" }, "geometry": { "type": "Point", "coordinates": [ -65.318, -43.2505, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB221", "Description": "TRELEW 3 (Laguna)" }, "geometry": { "type": "Point", "coordinates": [ -65.3058, -43.2447, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB029", "Description": "TREVELIN" }, "geometry": { "type": "Point", "coordinates": [ -71.46249, -43.080414, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB035", "Description": "Omega (Trelew)" }, "geometry": { "type": "Point", "coordinates": [ -65.196206, -43.046525, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB212", "Description": "ESQUEL" }, "geometry": { "type": "Point", "coordinates": [ -71.320297, -42.9161, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB004", "Description": "ESQUEL" }, "geometry": { "type": "Point", "coordinates": [ -71.3181, -42.9059, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB030", "Description": "FUTELAUFQUEN" }, "geometry": { "type": "Point", "coordinates": [ -71.573088, -42.871999, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB003", "Description": "Puerto Madryn 1" }, "geometry": { "type": "Point", "coordinates": [ -65.031883, -42.774139, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB211", "Description": "Puerto Madryn 3" }, "geometry": { "type": "Point", "coordinates": [ -65.0323, -42.7681, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB219", "Description": "Puerto Madryn 4 (Golf Club)" }, "geometry": { "type": "Point", "coordinates": [ -65.0639, -42.7517, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB026", "Description": "Puerto Madryn 2" }, "geometry": { "type": "Point", "coordinates": [ -65.0759, -42.727, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB033", "Description": "Puerto Pir mides" }, "geometry": { "type": "Point", "coordinates": [ -64.265304, -42.567457, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB078", "Description": "Gan Gan" }, "geometry": { "type": "Point", "coordinates": [ -68.289703, -42.518101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB079", "Description": "Gastre" }, "geometry": { "type": "Point", "coordinates": [ -69.223602, -42.2658, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB075", "Description": "LAGO PUELO" }, "geometry": { "type": "Point", "coordinates": [ -71.599197, -42.0639, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB036", "Description": "EL HOYO" }, "geometry": { "type": "Point", "coordinates": [ -71.520067, -42.063461, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CB037", "Description": "EL MAITEN" }, "geometry": { "type": "Point", "coordinates": [ -71.182715, -42.05477, 0.0 ] } }
+
+]
+}

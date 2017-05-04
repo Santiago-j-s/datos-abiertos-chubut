@@ -1,0 +1,138 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Est. Pirre Ñuque", "Description": "Cardenas, Elvio" }, "geometry": { "type": "Point", "coordinates": [ -69.424722222222229, -42.157777777777781, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Alamito", "Description": "Gallardo, Mariano" }, "geometry": { "type": "Point", "coordinates": [ -67.702777777777783, -43.0025, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Aguada Grande", "Description": "Quiroga Estanislao" }, "geometry": { "type": "Point", "coordinates": [ -67.983647222222217, -42.12960833333333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Los Colorados", "Description": "Muñoz, Carmelo Laguna Fria" }, "geometry": { "type": "Point", "coordinates": [ -68.461502777777781, -42.844027777777782, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Las Delicias", "Description": "Riquelme, Nestor Laguna Fria" }, "geometry": { "type": "Point", "coordinates": [ -68.261558333333326, -42.715611111111109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Pobre Gaucho", "Description": "Carmona, Honorindo" }, "geometry": { "type": "Point", "coordinates": [ -67.833663888888893, -42.562363888888889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Don Cucho", "Description": "Sepulveda, Eliberto" }, "geometry": { "type": "Point", "coordinates": [ -68.845391666666671, -42.517808333333328, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Aguada La Mula", "Description": "Bejar, Lusmila" }, "geometry": { "type": "Point", "coordinates": [ -68.01375, -42.734875, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Sufrida", "Description": "Huisca, Orlando" }, "geometry": { "type": "Point", "coordinates": [ -68.2465, -42.812752777777767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Ponderosa", "Description": "Arias, Ewar" }, "geometry": { "type": "Point", "coordinates": [ -68.087083333333339, -42.338472222222222, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Manzano", "Description": "Campos, Hayde" }, "geometry": { "type": "Point", "coordinates": [ -69.09278333333333, -42.706586111111108, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Bultrera", "Description": "Collinao, Belindo" }, "geometry": { "type": "Point", "coordinates": [ -67.914780555555552, -42.648725, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Cano", "Description": "Currumil, Lucia" }, "geometry": { "type": "Point", "coordinates": [ -68.610033333333334, -42.720916666666668, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Los 8 Hermanos", "Description": "Millao, Fermina" }, "geometry": { "type": "Point", "coordinates": [ -67.337280555555552, -42.794055555555559, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Alamo", "Description": "Almendra" }, "geometry": { "type": "Point", "coordinates": [ -67.376419444444451, -42.483222222222217, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Pino", "Description": "Ibañez, Oscar" }, "geometry": { "type": "Point", "coordinates": [ -67.543113888888882, -42.244194444444453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Pangare", "Description": "Currumil, Pedro" }, "geometry": { "type": "Point", "coordinates": [ -67.191444444444443, -42.604333333333336, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Conejo", "Description": "Rivera, Eliseo" }, "geometry": { "type": "Point", "coordinates": [ -67.434222222222218, -42.23705833333333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Pichana", "Description": "Balboa, Ema" }, "geometry": { "type": "Point", "coordinates": [ -66.88411111111111, -42.22591666666667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Dormilon", "Description": "Navarrete, Guillermo" }, "geometry": { "type": "Point", "coordinates": [ -67.624055555555557, -42.234944444444437, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Pedrero", "Description": "Suc. Jara Atilio" }, "geometry": { "type": "Point", "coordinates": [ -67.905030555555555, -42.52986111111111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Sierra Chata", "Description": "Barroso, Maximo" }, "geometry": { "type": "Point", "coordinates": [ -65.996583333333334, -42.770111111111113, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Arroyo de Telsen", "Description": "Montesino, Cesar" }, "geometry": { "type": "Point", "coordinates": [ -66.856666666666669, -42.592305555555548, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ranquilhuao", "Description": "Bowen, Hugo" }, "geometry": { "type": "Point", "coordinates": [ -66.987138888888893, -42.77625, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ibañez, Rebeca", "Description": "Ibañez, Rebeca" }, "geometry": { "type": "Point", "coordinates": [ -67.080391666666671, -42.247861111111114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Los Saucos", "Description": "Saez, Normelia" }, "geometry": { "type": "Point", "coordinates": [ -67.397002777777772, -42.467777777777783, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Las Horquetas", "Description": "Urra Hnos." }, "geometry": { "type": "Point", "coordinates": [ -67.061836111111106, -42.218166666666669, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Las Margaritas", "Description": "Vera, Juan de Dios" }, "geometry": { "type": "Point", "coordinates": [ -66.258239286050667, -42.675554712614449, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Crina al Viento", "Description": "Hulsca, Alejandrina (Agregado por DiCoF)" }, "geometry": { "type": "Point", "coordinates": [ -68.245383333333336, -42.82825, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Oficina Corfo Telsen", "Description": "Giorgio Ariel (Agregado por DiCOf)" }, "geometry": { "type": "Point", "coordinates": [ -66.941272222222224, -42.436561111111111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Los Berros", "Description": "Schreyer Erika (Agregado por DiCoF)" }, "geometry": { "type": "Point", "coordinates": [ -67.455366666666663, -42.358583333333343, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Catan Lin", "Description": "Ritchie Alba (Agregado por DiCoF)" }, "geometry": { "type": "Point", "coordinates": [ -68.480913888888892, -42.265375, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sierra Chata", "Description": "Caceres, Alejo" }, "geometry": { "type": "Point", "coordinates": [ -69.805483333333328, -42.399216666666668, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Cerro Colorado", "Description": "Delgado Humenides" }, "geometry": { "type": "Point", "coordinates": [ -68.213883333333328, -43.088566666666672, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Pobreza", "Description": "Garcia, Victoriano" }, "geometry": { "type": "Point", "coordinates": [ -68.77325, -42.629716666666667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Los Claveles", "Description": "Galdamez, jorge" }, "geometry": { "type": "Point", "coordinates": [ -68.08045, -42.9814, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Cumbre", "Description": "Millanao, Juan Valentin" }, "geometry": { "type": "Point", "coordinates": [ -69.57416666666667, -42.507033333333332, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Menuco", "Description": "Ñanco, Roque Alfonso" }, "geometry": { "type": "Point", "coordinates": [ -68.98535, -42.896583333333332, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Aguada Grande", "Description": "Gomez, Hugo" }, "geometry": { "type": "Point", "coordinates": [ -68.6745, -42.82203333333333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gorro Frigio", "Description": "Icassatte, Irma" }, "geometry": { "type": "Point", "coordinates": [ -69.204783333333339, -42.90915, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Chenque", "Description": "Meza, Jimenez" }, "geometry": { "type": "Point", "coordinates": [ -69.148416666666662, -43.099066666666673, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Fernandez, Evaristo", "Description": "Fernandez, Evaristo" }, "geometry": { "type": "Point", "coordinates": [ -69.3093, -43.078266666666657, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Galpon de Acopio Gastre", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -69.21865, -42.25888333333333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Ventana", "Description": "Rafael, Daniel" }, "geometry": { "type": "Point", "coordinates": [ -68.079875, -43.043891666666667, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Paloma", "Description": "Caceres, Sixto" }, "geometry": { "type": "Point", "coordinates": [ -69.836726994471135, -42.112529382733051, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gonzalez, Anibal", "Description": "Gonzalez, Anibal" }, "geometry": { "type": "Point", "coordinates": [ -69.368705925341104, -42.012428028027628, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Esperanza", "Description": "Martinez, Emanuel" }, "geometry": { "type": "Point", "coordinates": [ -70.250983333333338, -43.492433333333331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Chaquira", "Description": "Curilaf, Hilario" }, "geometry": { "type": "Point", "coordinates": [ -70.260966666666661, -43.406383333333331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Burgos, Americo", "Description": "Burgos, Americo" }, "geometry": { "type": "Point", "coordinates": [ -70.407133333333334, -42.417333333333332, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. Cefernico", "Description": "Calderon, Elias" }, "geometry": { "type": "Point", "coordinates": [ -70.435066666666671, -42.619166666666658, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. El Michay", "Description": "Leufman, Antonio" }, "geometry": { "type": "Point", "coordinates": [ -70.302483333333328, -42.82415, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Antipan, Nereo", "Description": "Antipan, Nereo" }, "geometry": { "type": "Point", "coordinates": [ -70.35585, -42.76395, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sierras del Huancache", "Description": "Catro, Humberto Moises" }, "geometry": { "type": "Point", "coordinates": [ -70.2757, -42.384783333333331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Comunidad FentrenPeñi", "Description": "Comunidad FentrenPeñi" }, "geometry": { "type": "Point", "coordinates": [ -70.906533333333329, -42.119783333333331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pampa de Agnia", "Description": "Maliqueo" }, "geometry": { "type": "Point", "coordinates": [ -69.652077229116514, -43.748237241826793, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "El Calafate (Pichiñares)", "Description": "Huenchullan, Exequiel" }, "geometry": { "type": "Point", "coordinates": [ -69.3605, -43.611666666666657, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "El Solitario (Arroyo Perdido)", "Description": "Mancuche, Miguel" }, "geometry": { "type": "Point", "coordinates": [ -68.015666666666661, -43.423055555555557, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aldea Cerro Condor", "Description": "Puesto Sanitario" }, "geometry": { "type": "Point", "coordinates": [ -69.162833333333339, -43.421166666666657, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "El Poquito (Trapaluco)", "Description": "Aguilar, Romillo" }, "geometry": { "type": "Point", "coordinates": [ -67.359230555555555, -42.658303888888888, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "San Efren (Bajada del Diablo)", "Description": "Terensi, Carlos" }, "geometry": { "type": "Point", "coordinates": [ -67.339191666666665, -43.124738888888892, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Irma (Arroyo Perdido)", "Description": "Carranza" }, "geometry": { "type": "Point", "coordinates": [ -68.073983137709291, -43.555998076978632, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Laguna Fria", "Description": "Milla, Segundo Mauricio" }, "geometry": { "type": "Point", "coordinates": [ -68.226605555555551, -42.7659, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Quichaura", "Description": "Mahueltru, Juan" }, "geometry": { "type": "Point", "coordinates": [ -70.136180555555555, -43.542369444444446, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Laguna Las Liebres (Garayalde)", "Description": "Lefipan" }, "geometry": { "type": "Point", "coordinates": [ -67.593, -44.649666666666668, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bajada del Diablo", "Description": "Del Carmen" }, "geometry": { "type": "Point", "coordinates": [ -67.088166666666666, -42.8365, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bar Bajada del Diablo", "Description": "Bar" }, "geometry": { "type": "Point", "coordinates": [ -67.45963888888889, -42.885, 0.0 ] } }
+
+]
+}

@@ -1,0 +1,130 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ALDEA APELEG", "Description": "LOCALIDAD = ALDEA APELEG<br>PROPIETARI = Edificio Central El‚ctrica<br>CANAL = CANAL  8-<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 748<br>LATITUD = -44.6882<br>LONGITUD = -70.8557" }, "geometry": { "type": "Point", "coordinates": [ -70.855675, -44.688178, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ALDEA BELEIRO", "Description": "LOCALIDAD = ALDEA BELEIRO<br>PROPIETARI = Edificio de la Comuna Rural (s\/cerro)<br>CANAL = CANAL  3<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 732<br>LATITUD = -45.5545<br>LONGITUD = -71.5293" }, "geometry": { "type": "Point", "coordinates": [ -71.529303, -45.554467, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ALDEA EPULEF", "Description": "LOCALIDAD = ALDEA EPULEF<br>PROPIETARI = Edificio Central El‚ctrica<br>CANAL = CANAL 10<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 964<br>LATITUD = -43.3203<br>LONGITUD = -69.6934" }, "geometry": { "type": "Point", "coordinates": [ -69.693383, -43.320336, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ALTO RIO SENGUER", "Description": "LOCALIDAD = ALTO RÖO SENGUER<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL 12-<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 48<br>COTA = 698<br>LATITUD = -45.0388<br>LONGITUD = -70.8245" }, "geometry": { "type": "Point", "coordinates": [ -70.824478, -45.03876, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ARROYO VERDE", "Description": "LOCALIDAD = ARROYO VERDE<br>PROPIETARI = Edificio Subcomisar¡a<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 125<br>LATITUD = -41.9964<br>LONGITUD = -65.2935" }, "geometry": { "type": "Point", "coordinates": [ -65.2935, -41.996431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BAHIA BUSTAMANTE", "Description": "LOCALIDAD = BAHÖA BUSTAMANTE<br>PROPIETARI = Planta Empresa Soriano<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 9<br>LATITUD = -45.1262<br>LONGITUD = -66.5362" }, "geometry": { "type": "Point", "coordinates": [ -66.53625, -45.12625, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BLANCUNTRE", "Description": "LOCALIDAD = BLANCUNTRE<br>PROPIETARI = Escuela Nø 128<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 1022<br>LATITUD = -42.6204<br>LONGITUD = -68.9045" }, "geometry": { "type": "Point", "coordinates": [ -68.904522, -42.620442, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BUEN PASTO", "Description": "LOCALIDAD = BUEN PASTO<br>PROPIETARI = Edificio Central El‚ctrica<br>CANAL = CANAL 12+<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 645<br>LATITUD = -45.0772<br>LONGITUD = -69.4581" }, "geometry": { "type": "Point", "coordinates": [ -69.458122, -45.077183, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CAMARONES", "Description": "LOCALIDAD = CAMARONES<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  2-<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 45<br>ALTURA = 36<br>COTA = 41<br>LATITUD = -44.7944<br>LONGITUD = -65.7143" }, "geometry": { "type": "Point", "coordinates": [ -65.714317, -44.794431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CARRENLEUFU", "Description": "LOCALIDAD = CARRENLEUFU<br>PROPIETARI = Edificio de la Comuna Rural<br>CANAL = CANAL  8<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 430<br>LATITUD = -43.5848<br>LONGITUD = -71.7015" }, "geometry": { "type": "Point", "coordinates": [ -71.701489, -43.584758, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CERRO CENTINELA", "Description": "LOCALIDAD = CERRO CENTINELA<br>PROPIETARI = Edificio Centro Comunitario<br>CANAL = CANAL  4<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 612<br>LATITUD = -43.4785<br>LONGITUD = -71.5958" }, "geometry": { "type": "Point", "coordinates": [ -71.595806, -43.478461, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CHACAY OESTE", "Description": "LOCALIDAD = CHACAY OESTE<br>PROPIETARI = Escuela Nø 63<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 993<br>LATITUD = -42.6799<br>LONGITUD = -68.0608" }, "geometry": { "type": "Point", "coordinates": [ -68.060828, -42.679867, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CERRO CONDOR", "Description": "LOCALIDAD = CERRO CONDOR<br>PROPIETARI = Escuela Nø 31<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 332<br>LATITUD = -43.4216<br>LONGITUD = -69.1626" }, "geometry": { "type": "Point", "coordinates": [ -69.162628, -43.4216, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CHOLILA", "Description": "LOCALIDAD = CHOLILA<br>PROPIETARI = Edificio de la Comuna Rural (s\/cerro)<br>CANAL = CANAL  8<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 751<br>LATITUD = -42.5398<br>LONGITUD = -71.4678" }, "geometry": { "type": "Point", "coordinates": [ -71.467806, -42.539811, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COLAN CONHUE", "Description": "LOCALIDAD = COLAN CONHUE<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 13+<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 840<br>LATITUD = -43.2406<br>LONGITUD = -69.9313" }, "geometry": { "type": "Point", "coordinates": [ -69.931283, -43.240633, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COLONIA CUSHAMEN", "Description": "LOCALIDAD = COLONIA CUSHAMEN<br>PROPIETARI = Escuela Nø 69<br>CANAL = CANAL  7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 818<br>LATITUD = -42.11<br>LONGITUD = -70.8885" }, "geometry": { "type": "Point", "coordinates": [ -70.888531, -42.110047, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CORCOVADO", "Description": "LOCALIDAD = CORCOVADO<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL  13+<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 45<br>COTA = 416<br>LATITUD = -43.5371<br>LONGITUD = -71.4642" }, "geometry": { "type": "Point", "coordinates": [ -71.464167, -43.537083, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COSTA DEL CHUBUT", "Description": "LOCALIDAD = COSTA DEL CHUBUT<br>PROPIETARI = Escuela Nø 137<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 914<br>LATITUD = -42.604<br>LONGITUD = -70.4575" }, "geometry": { "type": "Point", "coordinates": [ -70.45755, -42.603983, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COSTA DEL GUALJAINA", "Description": "LOCALIDAD = COSTA DEL GUALJAINA<br>PROPIETARI = Escuela Nø 29<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 479<br>LATITUD = -42.6646<br>LONGITUD = -70.4437" }, "geometry": { "type": "Point", "coordinates": [ -70.443667, -42.664611, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COSTA DEL LEPA", "Description": "LOCALIDAD = COSTA DEL LEPA<br>PROPIETARI = Escuela Nø 99<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 600<br>LATITUD = -42.6883<br>LONGITUD = -70.7499" }, "geometry": { "type": "Point", "coordinates": [ -70.749883, -42.688325, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CUSHAMEN", "Description": "LOCALIDAD = CUSHAMEN<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL 12-<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 663<br>LATITUD = -42.1734<br>LONGITUD = -70.6619" }, "geometry": { "type": "Point", "coordinates": [ -70.661861, -42.173361, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DIQUE AMEGHINO", "Description": "LOCALIDAD = DIQUE AMEGHINO<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 12<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 143<br>LATITUD = -43.7014<br>LONGITUD = -66.4687" }, "geometry": { "type": "Point", "coordinates": [ -66.468675, -43.701397, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dr. ATILIO VIGLIONE", "Description": "LOCALIDAD = Dr. ATILIO VIGLIONE<br>PROPIETARI = Edificio Central El‚ctrica<br>CANAL = CANAL  9<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 545<br>LATITUD = -44.1896<br>LONGITUD = -71.6648" }, "geometry": { "type": "Point", "coordinates": [ -71.664783, -44.189583, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dr. RICARDO ROJAS", "Description": "LOCALIDAD = Dr. RICARDO ROJAS<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL  5-<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 562<br>LATITUD = -45.5774<br>LONGITUD = -71.0357" }, "geometry": { "type": "Point", "coordinates": [ -71.035683, -45.577358, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EL ESCORIAL", "Description": "LOCALIDAD = EL ESCORIAL<br>PROPIETARI = Contenedor Comunitario<br>CANAL = CANAL  4<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 778<br>LATITUD = -43.0895<br>LONGITUD = -68.5435" }, "geometry": { "type": "Point", "coordinates": [ -68.543536, -43.089481, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EL MAITEN", "Description": "LOCALIDAD = EL MAITEN<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL 11<br>POTENCIA_T = 100 W<br>MASTIL_MYM = C 60<br>ALTURA = 48<br>COTA = 705<br>LATITUD = -42.0483<br>LONGITUD = -71.1734" }, "geometry": { "type": "Point", "coordinates": [ -71.173361, -42.048333, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EL MIRASOL", "Description": "LOCALIDAD = EL MIRASOL<br>PROPIETARI = Escuela Nø 118<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 233<br>LATITUD = -43.2838<br>LONGITUD = -67.7605" }, "geometry": { "type": "Point", "coordinates": [ -67.760539, -43.283767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EPUYEN", "Description": "LOCALIDAD = EPUYEN<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  4<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 492<br>LATITUD = -42.2287<br>LONGITUD = -71.3561" }, "geometry": { "type": "Point", "coordinates": [ -71.356075, -42.228714, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ESQUEL", "Description": "LOCALIDAD = ESQUEL<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  2<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 605<br>LATITUD = -42.9078<br>LONGITUD = -71.3244" }, "geometry": { "type": "Point", "coordinates": [ -71.324422, -42.907833, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "FACUNDO", "Description": "LOCALIDAD = FACUNDO<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL  7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 439<br>LATITUD = -45.3099<br>LONGITUD = -69.974" }, "geometry": { "type": "Point", "coordinates": [ -69.974, -45.309944, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "FOFO CAHUEL", "Description": "LOCALIDAD = FOFO CAHUEL<br>PROPIETARI = Escuela Nø 59<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 527<br>LATITUD = -42.4078<br>LONGITUD = -70.5314" }, "geometry": { "type": "Point", "coordinates": [ -70.531417, -42.40775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GAN GAN", "Description": "LOCALIDAD = GAN GAN<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL  8<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 911<br>LATITUD = -42.5199<br>LONGITUD = -68.2879" }, "geometry": { "type": "Point", "coordinates": [ -68.287931, -42.519861, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GASTRE", "Description": "LOCALIDAD = GASTRE<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL  8<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 1050<br>LATITUD = -42.2633<br>LONGITUD = -69.2203" }, "geometry": { "type": "Point", "coordinates": [ -69.220261, -42.263275, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GOBERNADOR COSTA", "Description": "LOCALIDAD = GOBERNADOR COSTA<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  9<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 45<br>ALTURA = 45<br>COTA = 720<br>LATITUD = -44.036<br>LONGITUD = -70.5972" }, "geometry": { "type": "Point", "coordinates": [ -70.597219, -44.036022, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GUALJAINA", "Description": "LOCALIDAD = GUALJAINA<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  5+<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 508<br>LATITUD = -42.7242<br>LONGITUD = -70.5348" }, "geometry": { "type": "Point", "coordinates": [ -70.534806, -42.724194, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "JOSE DE SAN MARTIN", "Description": "LOCALIDAD = JOS  DE SAN MARTÖN<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 6<br>POTENCIA_T = 25 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 45<br>COTA = 699<br>LATITUD = -44.0604<br>LONGITUD = -70.472" }, "geometry": { "type": "Point", "coordinates": [ -70.471953, -44.060431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAGO BLANCO", "Description": "LOCALIDAD = LAGO BLANCO<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 13<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 576<br>LATITUD = -45.9377<br>LONGITUD = -71.2697" }, "geometry": { "type": "Point", "coordinates": [ -71.269656, -45.937683, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAGO PUELO", "Description": "LOCALIDAD = LAGO PUELO<br>PROPIETARI = Contenedor DGSP - Cerro Taza de T‚<br>CANAL = CANAL 10+<br>POTENCIA_T = 100 W<br>MASTIL_MYM = GN 110<br>ALTURA = 48<br>COTA = 423<br>LATITUD = -42.0225<br>LONGITUD = -71.5773" }, "geometry": { "type": "Point", "coordinates": [ -71.577283, -42.022514, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAGO RIVADAVIA", "Description": "LOCALIDAD = LAGO RIVADAVIA<br>PROPIETARI = Puesto Policial<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 546<br>LATITUD = -42.5628<br>LONGITUD = -71.5973" }, "geometry": { "type": "Point", "coordinates": [ -71.59725, -42.56275, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAGO ROSARIO", "Description": "LOCALIDAD = LAGO ROSARIO<br>PROPIETARI = Edificio Centro Comunitario<br>CANAL = CANAL  9<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 683<br>LATITUD = -43.2477<br>LONGITUD = -71.3501" }, "geometry": { "type": "Point", "coordinates": [ -71.350125, -43.247706, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAGUNITA SALADA", "Description": "LOCALIDAD = LAGUNITA SALADA<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 10-<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 1075<br>LATITUD = -42.7446<br>LONGITUD = -69.1493" }, "geometry": { "type": "Point", "coordinates": [ -69.149281, -42.744553, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LAS PLUMAS", "Description": "LOCALIDAD = LAS PLUMAS<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL  2<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 169<br>LATITUD = -43.7202<br>LONGITUD = -67.2852" }, "geometry": { "type": "Point", "coordinates": [ -67.285172, -43.720183, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LOS ALERCES", "Description": "LOCALIDAD = LOS ALERCES<br>PROPIETARI = Edificio de la Intendencia de Parques<br>CANAL = CANAL  7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 546<br>LATITUD = -42.8957<br>LONGITUD = -71.6179" }, "geometry": { "type": "Point", "coordinates": [ -71.617917, -42.895694, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LOS ALTARES", "Description": "LOCALIDAD = LOS ALTARES<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 13<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 253<br>LATITUD = -43.8836<br>LONGITUD = -68.4125" }, "geometry": { "type": "Point", "coordinates": [ -68.412478, -43.883594, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "LOS CIPRESES", "Description": "LOCALIDAD = LOS CIPRESES<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL  5<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 341<br>LATITUD = -43.1843<br>LONGITUD = -71.6421" }, "geometry": { "type": "Point", "coordinates": [ -71.642114, -43.184269, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PASO DE INDIOS", "Description": "LOCALIDAD = PASO DE INDIOS<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 12<br>POTENCIA_T = 10 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 465<br>LATITUD = -43.8659<br>LONGITUD = -69.0356" }, "geometry": { "type": "Point", "coordinates": [ -69.035639, -43.865853, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PASO DEL SAPO", "Description": "LOCALIDAD = PASO DEL SAPO<br>PROPIETARI = Edificio de la Comuna<br>CANAL = CANAL 11<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 393<br>LATITUD = -42.7349<br>LONGITUD = -69.609" }, "geometry": { "type": "Point", "coordinates": [ -69.608983, -42.734936, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PIEDRA PARADA", "Description": "LOCALIDAD = PIEDRA PARADA<br>PROPIETARI = Escuela Nø 86<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 480<br>LATITUD = -42.6633<br>LONGITUD = -70.1534" }, "geometry": { "type": "Point", "coordinates": [ -70.153364, -42.663253, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PUERTO MADRYN", "Description": "LOCALIDAD = PUERTO MADRYN<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL 11<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 45<br>ALTURA = 42<br>COTA = 134<br>LATITUD = -42.8212<br>LONGITUD = -65.016" }, "geometry": { "type": "Point", "coordinates": [ -65.015867, -42.82117, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PUERTO PIRAMIDES", "Description": "LOCALIDAD = PUERTO PIRAMIDES<br>PROPIETARIO = Edificio de la Comuna<br>CANAL = CANAL  2<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 12<br>LATITUD = -42.571<br>LONGITUD = -64.2806" }, "geometry": { "type": "Point", "coordinates": [ -64.280583, -42.571028, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "RANQUIL HUAO", "Description": "LOCALIDAD = RANQUIL HUAO<br>PROPIETARI = Escuela Nø 60<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 772<br>LATITUD = -42.2516<br>LONGITUD = -70.9244" }, "geometry": { "type": "Point", "coordinates": [ -70.924392, -42.251575, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "RIO MAYO", "Description": "LOCALIDAD = RÖO MAYO<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL 10<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 42<br>COTA = 542<br>LATITUD = -45.6926<br>LONGITUD = -70.2464" }, "geometry": { "type": "Point", "coordinates": [ -70.246406, -45.692644, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "RIO PERCY", "Description": "LOCALIDAD = RÖO PERCY<br>PROPIETARI = Escuela Nø  188<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 717<br>LATITUD = -42.8551<br>LONGITUD = -71.4318" }, "geometry": { "type": "Point", "coordinates": [ -71.431761, -42.855125, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "RIO PICO", "Description": "LOCALIDAD = RÖO PICO<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL 11<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 42<br>COTA = 617<br>LATITUD = -44.1776<br>LONGITUD = -71.3653" }, "geometry": { "type": "Point", "coordinates": [ -71.365328, -44.177606, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SARMIENTO", "Description": "LOCALIDAD = SARMIENTO<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL  7<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 42<br>COTA = 273<br>LATITUD = -45.5871<br>LONGITUD = -69.0714" }, "geometry": { "type": "Point", "coordinates": [ -69.071389, -45.587083, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SEPAUCAL", "Description": "LOCALIDAD = SEPAUCAL<br>PROPIETARI = Escuela Nø  92<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 24<br>COTA = 738<br>LATITUD = -42.3593<br>LONGITUD = -67.3843" }, "geometry": { "type": "Point", "coordinates": [ -67.404114, -42.271501, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SIERRA COLORADA", "Description": "LOCALIDAD = SIERRA COLORADA<br>PROPIETARI = Escuela Nø  208<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 850<br>LATITUD = -43.191<br>LONGITUD = -71.3464" }, "geometry": { "type": "Point", "coordinates": [ -71.346417, -43.191028, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TECKA", "Description": "LOCALIDAD = TECKA<br>PROPIETARI = Est.RE compartido con Telef¢nica de Ar<br>CANAL = CANAL  6<br>POTENCIA_T = 100 W<br>MASTIL_MYM = AUTOSOPORTADO<br>ALTURA = 48<br>COTA = 839<br>LATITUD = -43.499<br>LONGITUD = -70.8211" }, "geometry": { "type": "Point", "coordinates": [ -70.821136, -43.499019, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TELSEN", "Description": "LOCALIDAD = TELSEN<br>PROPIETARI = Edificio de Comuna<br>CANAL = CANAL  4<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 353<br>LATITUD = -42.4364<br>LONGITUD = -66.9445" }, "geometry": { "type": "Point", "coordinates": [ -66.944517, -42.436408, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TREVELIN", "Description": "LOCALIDAD = TREVELIN<br>PROPIETARI = Edificio DGSP<br>CANAL = CANAL 12<br>POTENCIA_T = 100 W<br>MASTIL_MYM = RH 45<br>ALTURA = 36<br>COTA = 624<br>LATITUD = -43.0096<br>LONGITUD = -71.4376" }, "geometry": { "type": "Point", "coordinates": [ -71.437597, -43.009614, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "YALA LAUBAT", "Description": "LOCALIDAD = YALA LAUBAT<br>PROPIETARI = Escuela Nø 62<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 946<br>LATITUD = -42.7594<br>LONGITUD = -68.8662" }, "geometry": { "type": "Point", "coordinates": [ -68.866169, -42.759356, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ÑORQUINCO SUR", "Description": "LOCALIDAD = ¥ORQUINCO SUR<br>PROPIETARI = Escuela Nø 67<br>CANAL = CANAL 7<br>POTENCIA_T = 25 W<br>MASTIL_MYM = RH 16<br>ALTURA = 18<br>COTA = 812<br>LATITUD = -41.9669<br>LONGITUD = -70.8735" }, "geometry": { "type": "Point", "coordinates": [ -70.873472, -41.966875, 0.0 ] } }
+
+]
+}

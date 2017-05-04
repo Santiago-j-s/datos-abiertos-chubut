@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Nodo W7", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10752212234506, -43.297820889708163, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W5", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.104563334871244, -43.30445537532804, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W6", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.095888283341765, -43.302297859401683, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.101380596178515, -43.298485457959082, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W10 Segunda", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.309929182219037, -43.247672465495462, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W11 Primera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.311960897378697, -43.254257989221117, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo PM1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.016017457793652, -42.821261884457527, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo PM2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.043479453514607, -42.75706758167086, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo PP1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.296127875180431, -42.57214452278815, 0.0 ] } }
+
+]
+}

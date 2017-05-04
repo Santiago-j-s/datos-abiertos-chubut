@@ -1,0 +1,294 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Porotos 2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10141, -43.29857, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Salud - Garrahan", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.094765, -43.307037, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Relaciones Institucionales", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.106224, -43.302116, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Anexo Min. Seguridad y Justicia", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10256, -43.300728, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dirección de Publicidad", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09425, -43.307026, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Salud - Versalle", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10273, -43.300644, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DPI-RW-Policia", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10097, -43.30168, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ciencia y Tecnologia", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10686, -43.30295, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo P1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10114, -43.29836, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Subsecretaria Gobierno", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.0998, -43.29799, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Legajos - Seg. Automotor - Policia", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10199, -43.297493, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Comunicaciones", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09438, -43.299404, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cooperativismo", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10198, -43.297127, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Univ. del Chubut", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09806, -43.298775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Criminalistica", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09951, -43.298313, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Programa Sumar", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.1003, -43.298893, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sec. Trabajo - Moreno 136", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.098, -43.296814, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc. Especiales RW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.08645, -43.292084, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo P3", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10118, -43.298523, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Politicas Penitenciarias", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.095604, -43.299355, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Defensa Civil", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10026, -43.29767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Drogas Peligrosas", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10395, -43.29773, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jefatura Nueva", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10635, -43.29742, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W6", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.095825, -43.302246, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Automotores", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09314, -43.30192, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sumarios", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09761, -43.302383, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aeronautica RW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.07298, -43.300507, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc Rural", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.097176, -43.30272, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CAP 490", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.08304, -43.293613, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CREE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09252, -43.30121, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "IPA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.09243, -43.300938, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coord y Control", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.0964, -43.30136, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-RW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10403, -43.29901, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-COSE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.200485, -43.0526, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "AP-COSE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.20002, -43.052513, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "COSE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.1951, -43.051964, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP2-COSE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.20031, -43.05226, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP2-PM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.01621, -42.821293, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PM Panel 1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.01623, -42.82112, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 193", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.0163, -42.819965, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PTP-RPTPM-POLICIA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.01643, -42.821224, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PTP-POLICIA-RPTPM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.043655, -42.757023, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "OMNI1 PM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04367, -42.75689, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PM PANEL 2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.043434, -42.757088, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "AVP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.049, -42.774017, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hospital PM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.03969, -42.759773, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PM PANEL 3", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.0438, -42.75716, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-PM-PP-AF", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.01599, -42.821186, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-PP-PM-AF", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.29617, -42.57212, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PIRAMIDES PANEL 1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.295815, -42.572247, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cooperativa PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.280334, -42.57049, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.28311, -42.571793, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Municipalidad PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.28049, -42.570843, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Policia PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.280975, -42.5708, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Costa 3 PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.27614, -42.5757, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "AP Nodos", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.27629, -42.57579, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Costa 1 PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.28398, -42.57312, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Juzgado", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.28136, -42.571217, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Radio PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.27633, -42.569542, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo P4", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.105034, -43.302692, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Obras Publicas", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10292, -43.30173, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pesca", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10871, -43.30808, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela 47", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.105125, -43.308945, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UDC - Don Bosco", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.104614, -43.302177, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-RW-TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10787, -43.297485, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-TW-RW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30968, -43.247814, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-TW2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.310234, -43.247753, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.5007, -43.290035, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 1 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.500694, -43.290176, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wifi Plaza GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.49826, -43.291092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wifi Plaza 2 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.498314, -43.29143, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 513 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.499344, -43.288235, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP Esc Agrotecnica GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.50082, -43.290318, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc Agrotecnica GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.47296, -43.333244, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 61 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.48054, -43.32749, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-DV-GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.50094, -43.290154, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W4-PAP-GM-DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70589, -43.310364, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 2 DV-SE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70585, -43.31016, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 781 DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.700935, -43.312054, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Policia DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70561, -43.306744, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hospital DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70351, -43.305523, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 1 DV-NO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70605, -43.310368, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wifi Plaza DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.711, -43.307568, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Reg. Civil DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.71057, -43.308056, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 513 DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.710655, -43.312298, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wifi Muni DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.710884, -43.308254, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Juzgado DV", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.71038, -43.307922, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PTP-DV-28", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.70596, -43.31045, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo 28", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.84059, -43.389824, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Municipio 28", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.84117, -43.390903, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Matadero 28", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.843315, -43.401707, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Policia 28", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.84013, -43.38877, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 2 GM-SE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.50048, -43.290028, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 794 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.49559, -43.28506, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UE GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.50192, -43.29937, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela 1035 GM", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.488686, -43.289795, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 100 PTP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.48878, -43.289738, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc PTP2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.49, -43.289158, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aeronautica TW PTP1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30964, -43.24751, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aeronautica Tw PTP2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.27321, -43.215218, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 2 2da TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.309906, -43.24789, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela 78 TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30143, -43.292103, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela 812 TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31101, -43.250515, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Area Programatica TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30308, -43.250637, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 6 2da TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31009, -43.24764, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CPE TMP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30991, -43.245914, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 5 2da TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.30962, -43.24766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela Arte 759 TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.29263, -43.246338, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PTP-2DA-1RA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.310135, -43.247875, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PTP-1RA-2DA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31188, -43.254097, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 3 1ra TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31211, -43.254135, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc 784 TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.3182, -43.25612, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 1 1ra TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31184, -43.25394, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panel 2 1ra TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31179, -43.254246, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hospital TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31085, -43.255596, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Montada TW", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.32118, -43.29654, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-C7-C7R7", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.108, -43.297577, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP-C7R7-C7", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.1511, -43.28066, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Reconocimientos Medicos", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10907, -43.295727, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP1-DGSP-PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10112, -43.298615, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PAP1-PU-DGSP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.047035, -43.317554, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nodo W2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04699, -43.31742, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Escuela 190 PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04549, -43.311337, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mini Hospital PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04491, -43.31075, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "WIFI TONINAS", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.03906, -43.31199, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "WIFI SANDOS", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.042725, -43.31608, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W2 ELSA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04722, -43.31751, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W2 PUERTO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04712, -43.31768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Direccion de Puertos PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.05801, -43.339584, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "WIFI ACUAVIDA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04733, -43.321907, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Direccion de Pesca PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.05775, -43.339527, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "WIFI ANFITEATRO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04524, -43.318893, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "W2-COSTA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04688, -43.317627, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esc Internado - Esc 776 PU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.04652, -43.31799, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "AP-PAP-MAGAGNA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.10124, -43.29866, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ST-PAP-MAGAGNA", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.05304, -43.399223, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "AP-PAP-TOMBO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.05313, -43.399357, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ST-PAP-TOMBO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31513, -43.9787, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "NODO 900 TOMBO", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.31467, -43.97914, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Biologos Tombo", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.24654, -44.04472, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GuardaFaunas Tombo", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.23651, -44.04468, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Avistaje Tombo", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.223915, -44.045517, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Est. La Regina", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -65.329895, -43.98849, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wifi Nodo 2 PP", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -64.2813, -42.573616, 0.0 ] } }
+
+]
+}

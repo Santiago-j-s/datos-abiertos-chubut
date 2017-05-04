@@ -1,0 +1,116 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Corcovado ArSAT Policia", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.466664, -43.534389, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corcovado ArSAT Escuelas", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.470308, -43.541129, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corcovado ArSAT Hospital", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -71.472986, -43.535612, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3198-UEPBuenPasto", "Description": "Descripción: Latitude: -45.0763613389<br>Longitude: -69.4583653662<br>Latitude: -45.0763613389<br>Longitude: -69.4583653662" }, "geometry": { "type": "Point", "coordinates": [ -69.459085, -45.075975, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3199-UEPFacundo", "Description": "Descripción: Latitude: -45.310486725<br>Longitude: -69.9749918373<br>Latitude: -45.310486725<br>Longitude: -69.9749918373" }, "geometry": { "type": "Point", "coordinates": [ -69.973628, -45.308804, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3200-UEPLagoBlanco", "Description": "Descripción: Latitude: -45.9363223508<br>Longitude: -71.268435625<br>Latitude: -45.9363223508<br>Longitude: -71.268435625" }, "geometry": { "type": "Point", "coordinates": [ -71.269175, -45.938233, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3203-UEPBeleiro", "Description": "Descripción: Latitude: -45.5528705647<br>Longitude: -71.5219853455<br>Latitude: -45.5528705647<br>Longitude: -71.5219853455" }, "geometry": { "type": "Point", "coordinates": [ -71.523572, -45.55288, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3205-Aviglione", "Description": "Descripción: Latitude: -44.1911948849<br>Longitude: -71.6643666949<br>Latitude: -44.1911948849<br>Longitude: -71.6643666949" }, "geometry": { "type": "Point", "coordinates": [ -71.663588, -44.190787, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3207-UEPCerroCentinela", "Description": "Descripción: Latitude: -43.483182327<br>Longitude: -71.5986406676<br>Latitude: -43.483182327<br>Longitude: -71.5986406676" }, "geometry": { "type": "Point", "coordinates": [ -71.598641, -43.483182, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3209-UEPLeleque", "Description": "Descripción: Latitude: -42.374271<br>Longitude: -71.048687<br>Latitude: -42.374271<br>Longitude: -71.048687" }, "geometry": { "type": "Point", "coordinates": [ -71.048687, -42.374271, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3211-UEPLasPlumas", "Description": "Descripción: Latitude: -43.721307912<br>Longitude: -67.2825536571<br>Latitude: -43.721307912<br>Longitude: -67.2825536571" }, "geometry": { "type": "Point", "coordinates": [ -67.282554, -43.721308, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3212-LosAltares", "Description": "Descripción: Latitude: -43.8829900633<br>Longitude: -68.4122757476<br>Latitude: -43.8829900633<br>Longitude: -68.4122757476" }, "geometry": { "type": "Point", "coordinates": [ -68.412276, -43.88299, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3213-UEPColanConhue", "Description": "Descripción: Latitude: -43.2418118816<br>Longitude: -69.93089482<br>Latitude: -43.2418118816<br>Longitude: -69.93089482" }, "geometry": { "type": "Point", "coordinates": [ -69.930895, -43.241812, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3214-UEPAldeaEpulef", "Description": "Descripción: Latitude: -43.3207666602<br>Longitude: -69.6925691033<br>Latitude: -43.3207666602<br>Longitude: -69.6925691033" }, "geometry": { "type": "Point", "coordinates": [ -69.692569, -43.320767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3215-UEPCushamen", "Description": "Descripción: Latitude: -42.1737538385<br>Longitude: -70.6614640612<br>Latitude: -42.1737538385<br>Longitude: -70.6614640612" }, "geometry": { "type": "Point", "coordinates": [ -70.661464, -42.173754, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3216-UEPPsodelSapo", "Description": "Descripción: Latitude: -42.7353777353<br>Longitude: -69.6098625564<br>Latitude: -42.7353777353<br>Longitude: -69.6098625564" }, "geometry": { "type": "Point", "coordinates": [ -69.609863, -42.735378, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3217-UEPLagunitaSalada", "Description": "Descripción: Latitude: -42.742892676<br>Longitude: -69.1476693915<br>Latitude: -42.742892676<br>Longitude: -69.1476693915" }, "geometry": { "type": "Point", "coordinates": [ -69.147669, -42.742893, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3218-UEPGanGan", "Description": "Descripción: Latitude: -42.5225775861<br>Longitude: -68.2840872652<br>Latitude: -42.5225775861<br>Longitude: -68.2840872652" }, "geometry": { "type": "Point", "coordinates": [ -68.284087, -42.522578, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3219-UEPTelsen", "Description": "Descripción: Latitude: -42.4349012969<br>Longitude: -66.9421509555<br>Latitude: -42.4349012969<br>Longitude: -66.9421509555" }, "geometry": { "type": "Point", "coordinates": [ -66.942151, -42.434901, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3233-UEPCushamen", "Description": "Descripción: Latitude: -42.1737538385<br>Longitude: -70.6614640612<br>Latitude: -42.1737538385<br>Longitude: -70.6614640612" }, "geometry": { "type": "Point", "coordinates": [ -70.661464, -42.173754, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3234-UEPAmeghino", "Description": "Descripción: Latitude: -43.7009912881<br>Longitude: -66.4692969299<br>Latitude: -43.7009912881<br>Longitude: -66.4692969299" }, "geometry": { "type": "Point", "coordinates": [ -66.469297, -43.700991, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3235-UEPGastre", "Description": "Descripción: Latitude: -42.2632056467<br>Longitude: -69.2221145083<br>Latitude: -42.2632056467<br>Longitude: -69.2221145083" }, "geometry": { "type": "Point", "coordinates": [ -69.222115, -42.263206, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3263-UEPII-PiedraParada", "Description": "Descripción: Latitude: -42.6632565737<br>Longitude: -70.153017199<br>Latitude: -42.6632565737<br>Longitude: -70.153017199" }, "geometry": { "type": "Point", "coordinates": [ -70.153017, -42.663257, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3264-UEPII-Gaiman", "Description": "Descripción: Latitude: -43.2897754871<br>Longitude: -65.4921593185<br>Latitude: -43.2897754871<br>Longitude: -65.4921593185" }, "geometry": { "type": "Point", "coordinates": [ -65.491801, -43.289501, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3265-UEPII-Dolavon", "Description": "Descripción: Latitude: -43.3066455775<br>Longitude: -65.7084767922<br>Latitude: -43.3066455775<br>Longitude: -65.7084767922" }, "geometry": { "type": "Point", "coordinates": [ -65.708477, -43.306646, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3266-UEPII-Trevelin", "Description": "Descripción: Latitude: -43.0898894744<br>Longitude: -71.4644228185<br>Latitude: -43.0898894744<br>Longitude: -71.4644228185" }, "geometry": { "type": "Point", "coordinates": [ -71.464423, -43.089889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3267-UEPII-SanMartin", "Description": "Descripción: Latitude: -44.0509840248<br>Longitude: -70.469438696<br>Latitude: -44.0509840248<br>Longitude: -70.469438696" }, "geometry": { "type": "Point", "coordinates": [ -70.469439, -44.050984, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3271-UEPII-PasodeIndios", "Description": "Descripción: Latitude: -43.8647425958<br>Longitude: -69.0438922877<br>Latitude: -43.8647425958<br>Longitude: -69.0438922877" }, "geometry": { "type": "Point", "coordinates": [ -69.043892, -43.864743, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3272-UEPII-28deJulio", "Description": "Descripción: Latitude: -43.3898715534<br>Longitude: -65.8390532056<br>Latitude: -43.3898715534<br>Longitude: -65.8390532056" }, "geometry": { "type": "Point", "coordinates": [ -65.839053, -43.389872, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3273-UEPII-Cholila", "Description": "Descripción: Latitude: -42.5110096938<br>Longitude: -71.428254893<br>Latitude: -42.5110096938<br>Longitude: -71.428254893" }, "geometry": { "type": "Point", "coordinates": [ -71.428255, -42.51101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3275-UEPII-PtoPiramides", "Description": "Descripción: Latitude: -42.572179767<br>Longitude: -64.2835911598<br>Latitude: -42.572179767<br>Longitude: -64.2835911598" }, "geometry": { "type": "Point", "coordinates": [ -64.283591, -42.57218, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3276-UEPII-RioPico", "Description": "Descripción: Latitude: -44.1793418692<br>Longitude: -71.3666252975<br>Latitude: -44.1793418692<br>Longitude: -71.3666252975" }, "geometry": { "type": "Point", "coordinates": [ -71.366625, -44.179342, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3277-UEPII-Tecka", "Description": "Descripción: Latitude: -43.4943754822<br>Longitude: -70.8086458194<br>Latitude: -43.4943754822<br>Longitude: -70.8086458194" }, "geometry": { "type": "Point", "coordinates": [ -70.808646, -43.494375, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3278-UEPII-NorquincoSur", "Description": "Descripción: Latitude: -41.966746527<br>Longitude: -70.8734774667<br>Latitude: -41.966746527<br>Longitude: -70.8734774667" }, "geometry": { "type": "Point", "coordinates": [ -70.873477, -41.966747, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3279-UEPII-CostadelLepa", "Description": "Descripción: Latitude: -42.6882526561<br>Longitude: -70.7499772432<br>Latitude: -42.6882526561<br>Longitude: -70.7499772432" }, "geometry": { "type": "Point", "coordinates": [ -70.749977, -42.688253, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3280-UEPII-YalaLaubat", "Description": "Descripción: Latitude: -42.7594495479<br>Longitude: -68.8660995408<br>Latitude: -42.7594495479<br>Longitude: -68.8660995408" }, "geometry": { "type": "Point", "coordinates": [ -68.8661, -42.75945, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3281-UEPII-Blancuntre", "Description": "Descripción: Latitude: -42.6200437003<br>Longitude: -68.9043469756<br>Latitude: -42.6200437003<br>Longitude: -68.9043469756" }, "geometry": { "type": "Point", "coordinates": [ -68.904347, -42.620044, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3282-UEPII-ElEscorial", "Description": "Descripción: Latitude: -43.092961<br>Longitude: -70.072449<br>Latitude: -43.092961<br>Longitude: -70.072449" }, "geometry": { "type": "Point", "coordinates": [ -70.072449, -43.092961, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3284-UEPII-Sepaucal", "Description": "Descripción: Latitude: -42.2710745371<br>Longitude: -67.4017218902<br>Latitude: -42.2710745371<br>Longitude: -67.4017218902" }, "geometry": { "type": "Point", "coordinates": [ -67.401722, -42.271075, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3289-UEPII-FofoCahuel", "Description": "Descripción: Latitude: -42.407943443<br>Longitude: -70.5293226939<br>Latitude: -42.407943443<br>Longitude: -70.5293226939" }, "geometry": { "type": "Point", "coordinates": [ -70.529323, -42.407943, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3290-UEPII-RanquilHuao", "Description": "Descripción: Latitude: -42.2515817176<br>Longitude: -70.9241697168<br>Latitude: -42.2515817176<br>Longitude: -70.9241697168" }, "geometry": { "type": "Point", "coordinates": [ -70.92417, -42.251582, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3206-UEPCarrenleufu", "Description": "Descripción: Latitude: -43.5866597894<br>Longitude: -71.7019528321<br>Latitude: -43.5866597894<br>Longitude: -71.7019528321" }, "geometry": { "type": "Point", "coordinates": [ -71.701953, -43.58666, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3268-UEPII-Camarones", "Description": "Descripción: Latitude: -44.7954010457<br>Longitude: -65.7122518477<br>Latitude: -44.7954010457<br>Longitude: -65.7122518477" }, "geometry": { "type": "Point", "coordinates": [ -65.712252, -44.795401, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3269-UEPII-RioSenguer", "Description": "Descripción: Latitude: -45.0414331667<br>Longitude: -70.8206372939<br>Latitude: -45.0414331667<br>Longitude: -70.8206372939" }, "geometry": { "type": "Point", "coordinates": [ -70.820637, -45.041433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3283-UEPII-ChacayOeste", "Description": "Descripción: Latitude: -42.6795528838<br>Longitude: -68.0607731781<br>Latitude: -42.6795528838<br>Longitude: -68.0607731781" }, "geometry": { "type": "Point", "coordinates": [ -68.060773, -42.679553, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3287-UEPII-ElTurbio", "Description": "Descripción: Latitude: -42.2478985095<br>Longitude: -71.692827329<br>Latitude: -42.2478985095<br>Longitude: -71.692827329" }, "geometry": { "type": "Point", "coordinates": [ -71.692827, -42.247899, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3202-UEPRRojas", "Description": "Descripción: Latitude: -45.5767024837<br>Longitude: -71.033780273<br>Latitude: -45.5767024837<br>Longitude: -71.033780273" }, "geometry": { "type": "Point", "coordinates": [ -71.03378, -45.576702, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3204-UEPAldeaApeleg", "Description": "Descripción: Latitude: -44.6884305145<br>Longitude: -70.8531733463<br>Latitude: -44.6884305145<br>Longitude: -70.8531733463" }, "geometry": { "type": "Point", "coordinates": [ -70.853173, -44.688431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3232-UEPCCondor", "Description": "Descripción: Latitude: -43.4216289984<br>Longitude: -69.162256577<br>Latitude: -43.4216289984<br>Longitude: -69.162256577" }, "geometry": { "type": "Point", "coordinates": [ -69.162257, -43.421629, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3270-UEPII-Gualjaina", "Description": "Descripción: Latitude: -42.7238255969<br>Longitude: -70.5375227755<br>Latitude: -42.7238255969<br>Longitude: -70.5375227755" }, "geometry": { "type": "Point", "coordinates": [ -70.537523, -42.723826, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DOWN 3274-UEPII-Corcovado", "Description": "Descripción: Latitude: -43.5398308609<br>Longitude: -71.4688468187<br>Latitude: -43.5398308609<br>Longitude: -71.4688468187" }, "geometry": { "type": "Point", "coordinates": [ -71.472744, -43.535834, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3286-UEPII-CostadeGualjaina", "Description": "Descripción: Latitude: -42.6644164769<br>Longitude: -70.4435041887<br>Latitude: -42.6644164769<br>Longitude: -70.4435041887" }, "geometry": { "type": "Point", "coordinates": [ -70.443504, -42.664416, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3210-UEPArroyoVerde", "Description": "Descripción: Latitude: -41.9963507349<br>Longitude: -65.2928707746<br>Latitude: -41.9963507349<br>Longitude: -65.2928707746" }, "geometry": { "type": "Point", "coordinates": [ -65.292871, -41.996351, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3285-UEPII-ElMirasol", "Description": "Descripción: Latitude: -43.301196<br>Longitude: -67.698578<br>Latitude: -43.301196<br>Longitude: -67.698578" }, "geometry": { "type": "Point", "coordinates": [ -67.698578, -43.301196, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3288-UEPII-CostadelChubut", "Description": "Descripción: Latitude: -42.6037500075<br>Longitude: -70.4581717558<br>Latitude: -42.6037500075<br>Longitude: -70.4581717558" }, "geometry": { "type": "Point", "coordinates": [ -70.458172, -42.60375, 0.0 ] } }
+
+]
+}

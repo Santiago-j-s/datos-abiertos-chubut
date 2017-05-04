@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Trelew Shelter", "Description": "En Despliegue" }, "geometry": { "type": "Point", "coordinates": [ -65.230681339031477, -43.242936613289878, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rawson Shelter", "Description": "En Desliegue" }, "geometry": { "type": "Point", "coordinates": [ -65.061570545834329, -43.310369003687732, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Puerto Madryn Shelter", "Description": "En Despliegue" }, "geometry": { "type": "Point", "coordinates": [ -65.058716666666669, -42.770613888888889, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Garayalde Shelter", "Description": "En Desliegue" }, "geometry": { "type": "Point", "coordinates": [ -66.618967905033713, -44.685762054143403, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Comodoro Shelter", "Description": "En Despliegue" }, "geometry": { "type": "Point", "coordinates": [ -67.48793055555555, -45.85474722222223, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tecka Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -70.805036111111107, -43.500013888888887, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rio Mayo Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -70.257136111111109, -45.685186111111101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jose de San Martin Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -70.476822222222225, -44.049030555555547, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Esquel Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -71.287927777777782, -42.907763888888887, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Epuyen Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -71.3554, -42.228491666666663, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rio Senguer Shelter", "Description": "En Servicio" }, "geometry": { "type": "Point", "coordinates": [ -70.812016666666665, -45.03625, 0.0 ] } }
+
+]
+}
